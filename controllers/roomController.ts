@@ -22,6 +22,8 @@ export const registerRoomHandlers = (io: Server, socket: Socket) => {
       socket.join(roomName);
       io.to(roomName).emit("start-drawing-session", roomName);
     } else {
+      console.log("Unauthorized access by user: ", socket.id);
+      console.log("Room name: ", roomName);
       io.to(socket.id).emit("unauthorized-access");
     }
   });
