@@ -1,4 +1,4 @@
-# Drawn-Together-Websocket-Server
+# Drawn Together (WebSocket Server)
 
 ### NOTE:
 *This is the Websocket Server for my 'Drawn Together' project and requires access to the [Frontend](https://github.com/TimBroderick44/Drawn-Together-Frontend) and the [Backend](https://github.com/TimBroderick44/Drawn-Together-Backend).
@@ -19,8 +19,8 @@ The WebSocket server handles real-time communication between clients, allowing u
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/drawn-together-server.git
-   cd drawn-together-server
+   git clone https://github.com/TimBroderick44/Drawn-Together-Websocket-Server.git
+   cd Drawn-Together-Websocket-Server
     ```
 
 2. **Install the dependencies**:
@@ -30,7 +30,7 @@ The WebSocket server handles real-time communication between clients, allowing u
 
 3. **Start the server**:
     ```bash
-      npm start
+      npm run server
     ```
 
 4. **Put it all together**:
