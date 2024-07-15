@@ -1,4 +1,4 @@
-# Drawn-Together-Websocket-Server
+# Drawn Together (WebSocket Server)
 
 ### NOTE:
 *This is the Websocket Server for my 'Drawn Together' project and requires access to the [Frontend](https://github.com/TimBroderick44/Drawn-Together-Frontend) and the [Backend](https://github.com/TimBroderick44/Drawn-Together-Backend).
