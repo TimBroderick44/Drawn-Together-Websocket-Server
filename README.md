@@ -19,8 +19,8 @@ The WebSocket server handles real-time communication between clients, allowing u
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/drawn-together-server.git
-   cd drawn-together-server
+   git clone https://github.com/TimBroderick44/Drawn-Together-Websocket-Server.git
+   cd Drawn-Together-Websocket-Server
     ```
 
 2. **Install the dependencies**:
