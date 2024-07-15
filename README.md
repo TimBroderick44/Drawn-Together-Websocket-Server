@@ -30,7 +30,7 @@ The WebSocket server handles real-time communication between clients, allowing u
 
 3. **Start the server**:
     ```bash
-      npm start
+      npm run server
     ```
 
 4. **Put it all together**:
